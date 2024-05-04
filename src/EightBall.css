@@ -1,0 +1,15 @@
+.EightBall {
+  width: 200px;
+}
+
+.EightBall-button {
+  color: white;
+  width: 200px;
+  padding: 85px 0;
+  border-radius: 100%;
+  margin-bottom: 10px;
+}
+
+.EightBall-reset {
+  border: 1px solid black;
+}
